@@ -20,5 +20,10 @@ namespace ActividadTDDApp
 
             return factorial;
         }
+
+        public static bool EsContrasenyaValida(string contrasenya)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
